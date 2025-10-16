@@ -1,5 +1,10 @@
 # Find Ai Files 🎯
 
+[![macOS](https://img.shields.io/badge/macOS-10.13+-blue?logo=apple)](https://www.apple.com/macos/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/26info/Find-Ai-Files/releases)
+[![Downloads](https://img.shields.io/github/downloads/26info/Find-Ai-Files/releases/total.svg)](https://github.com/26info/Find-Ai-Files/releases)
+
 <img width="200" height="200" alt="Find-Ai-Files" src="https://github.com/user-attachments/assets/fbca68ee-4a30-4d35-962b-fff4b57be375" />
 
 
