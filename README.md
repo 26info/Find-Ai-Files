@@ -2,7 +2,9 @@
 
 ## 🇷🇺 Русский
 
-**Простой способ найти и открыть ваши файлы Adobe Illustrator**
+ **Простая утилита для быстрого поиска и открытия файлов Adobe Illustrator.**
+ 
+Выбирайте папку, вводите ключевые слова - находите нужные AI-файлы за секунды!
 
 ### ✨ Основные возможности
 
@@ -28,7 +30,9 @@
 
 ## 🇺🇸 English
 
-**Easy way to find and open your Adobe Illustrator files**
+**Simple utility for quick search and opening of Adobe Illustrator files.**
+
+Select a folder, enter keywords - find needed AI files in seconds!
 
 ### ✨ Key Features
 
