@@ -57,3 +57,6 @@ Select a folder, enter keywords - find needed AI files in seconds!
 ---
 
 *Perfect for designers and anyone working with AI files!* 🎨
+
+## 📥 Скачать | Download
+**[Find.Ai.Files-v1.0.app.zip](https://github.com/26info/Find-Ai-Files/releases/download/1.0/Find.Ai.Files-v1.0.app.zip)**
