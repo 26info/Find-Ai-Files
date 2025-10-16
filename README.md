@@ -9,9 +9,11 @@
 
 <img width="200" height="200" alt="Find-Ai-Files" src="https://github.com/user-attachments/assets/fbca68ee-4a30-4d35-962b-fff4b57be375" />
 
+[Русский](#русский) • [English](#english)
+
 </div>
 
-## 🇷🇺 Русский
+## Русский
 
 **Простая утилита для быстрого поиска и открытия файлов Adobe Illustrator.**
  
@@ -39,7 +41,7 @@
 
 ---
 
-## 🇺🇸 English
+## English
 
 **Simple utility for quick search and opening of Adobe Illustrator files.**
 
