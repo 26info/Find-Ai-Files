@@ -3,7 +3,6 @@
 <div align="center">
 
 [![macOS](https://img.shields.io/badge/macOS-10.13+-blue?logo=apple)](https://www.apple.com/macos/)
-[![Release](https://img.shields.io/badge/release-v1.0-blue.svg)](https://github.com/26info/Find-Ai-Files/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/26info/Find-Ai-Files/total.svg)](https://github.com/26info/Find-Ai-Files/releases)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/26info/Find-Ai-Files/blob/main/LICENSE)
 
